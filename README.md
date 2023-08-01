@@ -1,4 +1,11 @@
-### Hi there 👋 I am Vickey Izzard, a technical writer jumping into GitHub with both feet!
+### Hi there! 👋 I am Vickey Izzard, a technical writer jumping into GitHub with both feet!
+
+My first attempt with GitHub has been to create the [Technical-Writing-Resources](https://github.com/VickeyIzzard/Technical-Writing-Resources#readme) repository.
+
+<!--
+# [Portfolio](https://vickeyizzard.github.io/Portfolio/)
+My portfolio on GitHub is in progress.
+-->
 
 <!--
 **VickeyIzzard/VickeyIzzard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
