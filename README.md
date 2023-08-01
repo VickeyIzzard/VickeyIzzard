@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am Vickey Izzard, a technical writer jumping into GitHub with both feet!
 
 <!--
 **VickeyIzzard/VickeyIzzard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
